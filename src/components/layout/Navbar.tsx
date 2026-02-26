@@ -1,5 +1,5 @@
 import { Link, useLocation } from 'react-router-dom'
-import { Rocket, LayoutDashboard, Briefcase, Zap, Mail, LogOut, Menu, X } from 'lucide-react'
+import { Rocket, LayoutDashboard, Briefcase, Zap, Mail, LogOut, Menu, X, Layout, Globe } from 'lucide-react'
 import { useState } from 'react'
 import { blink } from '../../blink/client'
 import { useAuth } from '../../hooks/useAuth'
